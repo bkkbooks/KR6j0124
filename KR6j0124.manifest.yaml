@@ -1,0 +1,246 @@
+canonical_identifier: bkk:krp/KR6j0124/v1
+canonical_location: https://kanripo.org/bkk/KR6j0124/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 菩提場所說一字頂輪王經
+  identifiers:
+    alt_id:
+    - T19n0950
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0950.xml
+    old_id: T19n0950
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: 甲
+  label: 甲
+  source_xml_id: wit5
+- short: 乙
+  label: 乙
+  source_xml_id: wit1
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 原
+  label: 原
+  source_xml_id: wit11
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0124_000.yaml, hash: 'sha256:78a2c7a3f76b55b0a1f13d50edd6a49ab90921eceb54a18d64c452660b2c8f51'}
+  - {seq: 1, filename: KR6j0124_001.yaml, hash: 'sha256:07ffd3e6dfd9b75f7f0bc2aa83cf2fc348ee614df641ca06f42f86b3f72632ac'}
+  - {seq: 2, filename: KR6j0124_002.yaml, hash: 'sha256:56f5ddc5973077d4be354f11000e58bf5928d42b7fc174929080608ebf719337'}
+  - {seq: 3, filename: KR6j0124_003.yaml, hash: 'sha256:263f5ccb78487421598cd975f945c8499f1b6c8c1417d2ee5528d72b93866375'}
+  - {seq: 4, filename: KR6j0124_004.yaml, hash: 'sha256:de0bbce8f00db314bcf1175edd21c717846dd1ca00de5dba9d76f2c299be5cbc'}
+  - {seq: 5, filename: KR6j0124_005.yaml, hash: 'sha256:9cfdcd6eedf9cb84832e828ab7975341ded301bf05eb92f9603830bd8af0fcfe'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0124_001.markers.yaml, hash: 'sha256:5d6275828a06f082acee2087448a8912049df955f531385a7a4ef1c2245310a3'}
+  - {seq: 2, role: markers, filename: assets/KR6j0124_002.markers.yaml, hash: 'sha256:563a17b27a508db0bf8f8dd4d2c0a8795e997504a01e9e73f5cc3787af2a94c1'}
+  - {seq: 3, role: markers, filename: assets/KR6j0124_003.markers.yaml, hash: 'sha256:d18ae34510dca66efe2192e7f5b823ba5f57565b740b277292185bf58462380d'}
+  - {seq: 4, role: markers, filename: assets/KR6j0124_004.markers.yaml, hash: 'sha256:45dc074468cf9c5f452b15174851be5423db03caff4070ce4a1f6690818ee96d'}
+  - {seq: 5, role: markers, filename: assets/KR6j0124_005.markers.yaml, hash: 'sha256:ff1c0d13933c5adcadd43daadadb2d85a8444e2de3ba0b862f43ba53e43e9de5'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0124_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7252
+  label: '菩提場所說一字頂輪王經卷
+
+    第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0124_T_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0124_T_001-mulu-2
+    span:
+    - body
+    - 2067
+    - 2067
+  label: 2 示現真言大威德品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0124_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 7940
+  label: '菩提場所說一字頂輪王經卷第
+
+    二'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0124_T_002-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 3 畫像儀軌品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0124_T_002-mulu-2
+    span:
+    - body
+    - 2925
+    - 2925
+  label: 4 行品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0124_T_002-mulu-3
+    span:
+    - body
+    - 3659
+    - 3659
+  label: 5 儀軌品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0124_T_002-mulu-4
+    span:
+    - body
+    - 5583
+    - 5583
+  label: 6 分別祕密相品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0124_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6027
+  label: 菩提場所說一字頂輪王經卷三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0124_T_003-mulu-1
+    span:
+    - body
+    - 45
+    - 45
+  label: 7 末法成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0124_T_003-mulu-2
+    span:
+    - body
+    - 3310
+    - 3310
+  label: 8 密印品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0124_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 9601
+  label: '菩提場所說一字頂輪王經卷
+
+    四'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0124_T_004-mulu-1
+    span:
+    - body
+    - 2809
+    - 2809
+  label: 9 諸成就法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0124_T_004-mulu-2
+    span:
+    - body
+    - 6541
+    - 6541
+  label: 10 世成就品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0124_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 3832
+  label: '菩提場所說一字頂輪王經卷第
+
+    五'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0124_T_005-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 11 無能勝加持品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0124_T_005-mulu-2
+    span:
+    - body
+    - 1307
+    - 1307
+  label: 12 證學法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0124_T_005-mulu-3
+    span:
+    - body
+    - 2273
+    - 2273
+  label: 13 護摩品
+  type: mulu
+  level: 1
+hash: sha256:05034b73f10dc03768782b25ab6807a76c23417960884bdf83aaa04d9bb692c3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

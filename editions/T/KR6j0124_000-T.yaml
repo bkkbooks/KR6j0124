@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0124/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 菩提場所說一字頂輪王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0950.xml
+    old_id: T19n0950
+hash: sha256:78a2c7a3f76b55b0a1f13d50edd6a49ab90921eceb54a18d64c452660b2c8f51
